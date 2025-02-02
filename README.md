@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">HI, I am AAYUSH SHARMA</h1>
+<h1 align="left">HI, I AM AAYUSH SHARMA</h1>
 
 ###
 
@@ -68,8 +68,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/aayush110410/aayush110410/output/snake.svg" alt="Snake animation" />
 
