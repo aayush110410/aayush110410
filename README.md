@@ -44,6 +44,8 @@
 
 ###
 
+<br clear="both">
+
 <img align="right" height="400" src="https://img.freepik.com/free-vector/cute-man-playing-game-computer-cartoon-vector-icon-illustration-people-technology-icon-isolated_138676-5731.jpg?t=st=1738482155~exp=1738485755~hmac=107b8e8e66ba1a4340b396397a858dab8d112443de6004fad326638c84e7e43e&w=996"  />
 
 ###
@@ -61,16 +63,21 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aayush110410&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=aayush110410&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=20&date_format=M%20j%5B,%20Y%5D&order=3" height="250" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=aayush110410&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=aayush110410&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=20&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/aayush110410/aayush110410/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
   <a href="https://open.spotify.com/user/31o5lyfxxjfikaxzxm6ewxif75le">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31o5lyfxxjfikaxzxm6ewxif75le&count=5&unique=true" alt="Spotify recently played"  />
-    
   </a>
 </div>
 
