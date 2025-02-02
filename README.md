@@ -1,21 +1,77 @@
-# 💫 About Me:
-🎓 I am a B.Tech student currently working on 2 projects <br>🎥 Video Editor and Cinematographer by hobby <br>📈 Love Entrepreneurship and finance, stocks<br>🎮 Gamer <br>🏎️ F1 Enthusiast (also cars)<br>🏀 Basketball player (runners up in college 🥈)<br><br>Looking to build network with people who can help me build the projects to market
+<div align="center">
+  <img height="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+</div>
 
+###
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aay.ush_sha.rma) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aayush-sharma-1314r) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aayush76567@@gmail.com) 
+<h1 align="left">HI, I AM AAYUSH SHARMA</h1>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat-square&logo=Adobe%20Lightroom&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aayush110410&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aayush110410&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aayush110410&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+###
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aayush110410&limit=5&theme=neon&combine_all_yearly_contributions=true)
+<h3 align="left">Well Professionally I am a Software Engineer (2nd year college but will become soon ) . Also</h3>
 
----
-[![](https://visitcount.itsvg.in/api?id=aayush110410&icon=1&color=0)](https://visitcount.itsvg.in)
+###
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h4 align="left">🎥  Video Editor and cinematographer by hobby<br>🏎️  Love F1 & cars ,an enthusiast<br>🎮  Love Games , a Gamer<br>🏀  Basketball Player (2nd in college)<br>📈  Likes Entrepreneurship & business<br>💻  Tech geek <br>💰  and love the money</h4>
+
+###
+
+<h1 align="left">Skills</h1>
+
+###
+
+<p align="left">or say what I can I do</p>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=c" height="50" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="50" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" height="50" alt="adobepremierepro logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ae" height="50" alt="adobeaftereffects logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ps" height="50" alt="adobephotoshop logo"  />
+</div>
+
+###
+
+<img align="right" height="400" src="https://img.freepik.com/free-vector/cute-man-playing-game-computer-cartoon-vector-icon-illustration-people-technology-icon-isolated_138676-5731.jpg?t=st=1738482155~exp=1738485755~hmac=107b8e8e66ba1a4340b396397a858dab8d112443de6004fad326638c84e7e43e&w=996"  />
+
+###
+
+<div align="left">
+  <a href="http://instagram.com/aay.ush_sha.rma/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/aayush-sharma-1314r/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aayush110410&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=aayush110410&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=20&date_format=M%20j%5B,%20Y%5D&order=3" height="250" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31o5lyfxxjfikaxzxm6ewxif75le">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31o5lyfxxjfikaxzxm6ewxif75le&count=5&unique=true" alt="Spotify recently played"  />
+    
+  </a>
+</div>
+
+###
